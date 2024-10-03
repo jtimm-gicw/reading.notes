@@ -9,7 +9,7 @@ My name is Jason Timm.  I am an ECE Instructor at GICW.  I have been in the educ
 
 Feel free to visit [my profile](https://github.com/jtimm-gicw)
 
-##Table of Contents of Code 102- Intro to Software Development
+## Table of Contents of Code 102- Intro to Software Development
 - [first Reading Notes](102/class1.md)
 - [2nd Reading Notes](102/class2.md)
 - [3rd Reading Notes](102/class3.md)
@@ -19,7 +19,7 @@ Feel free to visit [my profile](https://github.com/jtimm-gicw)
 - [7th Reading Notes](102/class7.md)
 - [8th Reading Notes](102/class8.md)
 
-##Table of Contents of Code 201
+## Table of Contents of Code 201
 - [first Reading Notes](201/class1.md)
 - [2nd Reading Notes](201/class2.md)
 - [3rd Reading Notes](201/class3.md)
