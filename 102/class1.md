@@ -70,12 +70,12 @@ git reset --hard
 Resets the index and working directory to the last commit (careful: discards changes).
 git revert <commit>
 Reverts a specific commit by creating a new commit.
-9. Deleting Branches
+9. *Deleting Branches*
 git branch -d <branch-name>
 Deletes a local branch (if it has been merged).
 git branch -D <branch-name>
 Force deletes a local branch (even if it hasn’t been merged).
-10. Tagging
+10. *Tagging*
 git tag <tag-name>
 Creates a tag for a specific commit.
 git push origin <tag-name>
