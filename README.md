@@ -1,15 +1,7 @@
 # Reading Notes
-Reading notes, code, syntax, etc.
+This site is for notes on reading assigmments learned during the course.
 
-# **Growth Mindset**
-*Growth mindset* is an attitude you have about what you are able to do and how you approach learning & tasks in a positive way.
 
-## Some things to remember
-- Think positively
-- Know you can do whatever you set your mind to
-- View any challendge as a learning opportunity not a burden or punishment
-
-For more informaiton vist the [this article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
 ### Who am I?
 
