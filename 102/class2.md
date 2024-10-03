@@ -79,3 +79,11 @@ git push origin <tag-name>
 Pushes a specific tag to the remote repository.
 These commands form the core of most Git workflows.
 
+**Follow these steps:**
+1. Git status
+
+2. Git add . (the dot means 'all')
+
+3. Git commit (must add a comment using -m"comment here")
+
+4. Git push origins main (this will push the update)
