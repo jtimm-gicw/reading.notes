@@ -28,3 +28,12 @@ Feel free to visit [my profile](https://github.com/jtimm-gicw)
 - [6th Reading Notes](201/class6.md)
 - [7th Reading Notes](201/class7.md)
 - [8th Reading Notes](201/class8.md)
+- [9th Reading Notes](201/class9.md)
+- [10th Reading Notes](201/class10.md)
+- [11th Reading Notes](201/class11.md)
+- [12th Reading Notes](201/class12.md)
+- [13th Reading Notes](201/class13.md)
+- [14th Reading Notes](201/class14.md)
+- [15th Reading Notes](201/class15.md)
+
+
