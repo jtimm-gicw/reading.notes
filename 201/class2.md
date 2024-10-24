@@ -9,10 +9,10 @@
 Using semantic HTML leads to better accessibility, SEO, code readability, and future-proofing, while promoting good development practices.
 2. How many levels of headings are there in HTML?
 6 levels (h1-h6)
-3. What are some uses for the <sup> and <sub> elements?
+3. What are some uses for the `<sup>` and `<sub>` elements?
 These elements provide visual clarity for complex notations in text, such as mathematical equations, scientific formulas, or references.
-4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
-When using the <abbr> element in HTML, the title attribute must be added to provide the full expansion of the abbreviation or acronym. This allows the browser to display the full meaning when the user hovers over the abbreviation, enhancing accessibility and clarity.
+4. When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
+When using the `<abbr>` element in HTML, the title attribute must be added to provide the full expansion of the abbreviation or acronym. This allows the browser to display the full meaning when the user hovers over the abbreviation, enhancing accessibility and clarity.
 
 **CSS**
 
