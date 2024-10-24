@@ -3,7 +3,7 @@
 ## Questions
 
 
-**HTML**
+### **HTML**
 
 1. Why is it important to use semantic elements in our HTML?
 Using semantic HTML leads to better accessibility, SEO, code readability, and future-proofing, while promoting good development practices.
@@ -14,7 +14,7 @@ These elements provide visual clarity for complex notations in text, such as mat
 4. When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 When using the `<abbr>` element in HTML, the title attribute must be added to provide the full expansion of the abbreviation or acronym. This allows the browser to display the full meaning when the user hovers over the abbreviation, enhancing accessibility and clarity.
 
-**CSS**
+### **CSS**
 
 1. What are ways we can apply CSS to our HTML?
 Inline, internal, and external
@@ -31,7 +31,7 @@ h2
 5. Which components are considered properties? 
 Color and padding.
 
-**JS**
+### **JS**
 
 1. What data type is a sequence of text enclosed in single quote marks? 
 strings
