@@ -48,5 +48,6 @@ equal to ==, greater than or equal to >=, & not equal to !==
 && (AND) requires all conditions to be true for the entire expression to be true.  || (OR) requires only one condition to be true for the entire expression to be true.
 Both operators are used to combine conditions, but the results depend on whether you need all conditions to be true (&&) or just one (||).
 
-
+## Things I want to know more about:
+*Javascript. I think some step by step, easy conditionals and functions would help make things more clear.*
 
