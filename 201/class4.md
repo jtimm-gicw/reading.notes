@@ -2,7 +2,7 @@
 
 ## HTML
 
-1. **To create a basic link, we wrap text or other content inside what element?** <a> tag
+1. **To create a basic link, we wrap text or other content inside what element?** `<a>` tag
 2. **The href attribute contains what information?** The website address.
 3. **What are some ways we can ensure links on our pages are accessible to all readers?** Contrasting colors, use descriptive link text.
 
