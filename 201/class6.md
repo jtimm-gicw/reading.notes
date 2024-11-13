@@ -134,3 +134,5 @@ Example: In { name: "Alice", greet: function() { console.log(this.name); } }, th
 **Why Use Methods in JavaScript?**
 Methods enable objects to have functionality, making them more powerful and allowing code to be modular and organized. They are essential for adding behaviors to objects and are a fundamental part of object-oriented programming in JavaScript.
 
+## Things I want to know more about
+**I wanto to know more about how to connect arrays/objects to functions in javascript.**
