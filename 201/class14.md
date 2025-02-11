@@ -96,5 +96,21 @@ Using CSS transitions on websites offers several benefits that enhance both the 
 2. **How this topic fit in with your long-term goals?**
 I feel that having a dynamic looking website would benefit my career in a couple of ways.  Firstly, it shows off my skills as in what I can do to potential clients or employers. Second, as a customer or visitor I know I would appreciate something that looks good and is functional.
 
+# 201-Read_14: Psychological Safety
 
+1. What are three key factors that contribute to psychologically safe teams?
 
+* **Open Communication and Idea Sharing:**
+Team members feel comfortable expressing even unconventional or "crazy" ideas without fear of being judged. In Rozovsky’s case-competition team, members openly brainstormed ideas, some of which were impractical, but this freedom fostered creativity and innovation.
+
+* **Mutual Respect and Support:**
+The case-competition team demonstrated mutual respect by valuing everyone's input. They had friendly, supportive interactions, such as sharing jokes and spending time chatting before diving into work. This camaraderie helped build trust and reduced stress.
+
+* **Equality in Team Dynamics:**
+In successful teams, there is no dominance by any one individual, and everyone has a chance to contribute equally. Unlike her study group, where members jockeyed for leadership and spoke over one another, Rozovsky’s case team maintained a balanced dynamic where all voices were heard, creating a collaborative and inclusive atmosphere.
+
+2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety. 
+*I think GICW is a professional setting that makes me psychological safe because they are open to new ideas and suggestions and those are actually implemented.*
+
+3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members? 
+*I feel it makes the work flow more easily when people feel more comfortable taking about issues, problems or sharing ideas.*
