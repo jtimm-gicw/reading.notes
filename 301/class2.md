@@ -24,3 +24,45 @@ Mounting
 ### Notes
 React lets you define components as *classes or functions*. The **methods** that you are able to use on these are called **lifecycle events**.
 Methods can be **called** during the **lifecycle of a component**, and they allow you to update the UI and application states.
+
+### Video
+1. What types of things can you pass in the props?
+In React, you can pass various types of data as props to components. 
+- strings
+- booleans
+- numbers 
+- null
+- objects
+- arrays
+- function (callback functions)
+- JSX components 
+- React elements
+
+2. What is the big difference between props and state?
+The big difference between props and state in React is:
+**Props are immutable (read-only) and passed from *parent to child* components.** They allow data to flow down the component tree but cannot be changed by the receiving component.
+**State is mutable (changeable) and managed *within* a component.** It allows a component to track and update data dynamically.
+
+3. When do we re-render our application?
+**State Changes →** If you update a component's state using useState or this.setState, React re-renders that component.
+**Props Change →** If a parent component passes new props to a child component, the child re-renders.
+
+4. What are some examples of things that we could store in state?
+1️⃣ User Input (Forms)
+- Storing values typed by a user in an input field.
+2️⃣ Counters & Numbers
+- Storing and updating a counter value.
+3️⃣ Boolean Flags (UI State)
+- Tracking things like modals, dropdowns, or dark mode.
+4️⃣ Lists & Arrays
+- Keeping track of multiple items (e.g., a to-do list).
+5️⃣ Objects (User Data, API Responses)
+- Storing data like user profiles.
+6️⃣ Fetched Data (from APIs)
+- Storing API responses dynamically.
+7️⃣ Theme (Dark Mode, Language)
+- Switching between light and dark mode.
+
+### Additional Notes
+
+
