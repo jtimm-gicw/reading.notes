@@ -60,3 +60,23 @@ The result is a new array with the additional item.
 `...person` spreads the properties of person into the new object.
 `...job` spreads the properties of job into the new object.
 The result is a single object containing all the properties from both.
+
+### Video
+1. In the video, what is the first step that the developer does to pass functions between components? 
+He creates a buttone to handle the delete button for the blog post with an empty function so that he can pass an arguement into a custom function.
+2. In your own words, what does the `handleClick` function do? 
+Usually used to respond when a user clicks on something, like a button. It is a common name for a function in JavaScript (especially in React) that gets triggered when a click event happens.
+3. How can you pass a method from a parent component into a child component?
+You can pass a method (function) from a parent component to a child component in React by using props.
+
+**Steps:**
+Define the method in the parent component.
+Pass it as a prop to the child component.
+Call the method inside the child component using props.
+4. How does the child component invoke a method that was passed to it from a parent component?
+The child component invokes a method passed from the parent component simply by calling it like a normal function using props.
+
+**Steps:**
+a. The parent component passes the function as a prop to the child.
+b. The child component receives it as a prop.
+c. The child calls the function when an event occurs (like a button click).
