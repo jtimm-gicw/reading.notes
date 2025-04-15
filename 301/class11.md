@@ -65,5 +65,14 @@ Instead of using rows and columns, NoSQL databases use flexible data structures 
 NoSQL databases don’t use tables with rows and columns like traditional SQL databases.
 Instead, they store data in more flexible, dynamic formats, depending on the type of NoSQL database you're using.
 
+7. What is inside of a MongoDB database?
+Think of a MongoDB database like a big digital filing cabinet.
+- colloections
+- documents
+- fields 
+
+8. Which is more flexible - SQL or MongoDB? and why?
+🥇 MongoDB is more flexible than SQL.
+ 
 
 
