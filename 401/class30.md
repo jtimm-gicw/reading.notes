@@ -1,3 +1,4 @@
+# 401-Read_30
 # 🗂️ Hashtables - Study Notes
 
 ## 📌 What is a Hashtable?
