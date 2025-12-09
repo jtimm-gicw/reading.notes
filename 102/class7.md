@@ -1,6 +1,6 @@
-**Read_07**
+## **Read_07**
 
-1. What is control flow?
+1. *What is control flow?*
 Control flow in JavaScript refers to the order in which the code executes in a program. It dictates how the program responds to conditions and makes decisions based on those conditions. 
 - conditional statements
 - loops
@@ -9,8 +9,10 @@ Control flow in JavaScript refers to the order in which the code executes in a p
 
 2. What is a JavaScript function? 
 A JavaScript function is a piece of code that you can use to perform a specific task. Functions help you organize your code and make it easier to manage and reuse.
+
 3. What does it mean to invoke - or call - a function?
 To invoke or call a function means to execute the code defined within that function. When you invoke a function, you run the code it contains, and it may perform an action or return a value.
+
 - Arguments are the values you pass to a function when you call or invoke it. They are used to provide specific data that the function can operate on.
 
 4. What are the parenthesis () for when you define a function?
